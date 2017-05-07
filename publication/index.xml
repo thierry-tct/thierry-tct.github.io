@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_index on Thierry Titcheu Chekam</title>
-    <link>https://thierry-tct.github.io/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in _index on Thierry Titcheu Chekam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption</title>
-      <link>https://thierry-tct.github.io/publication/cpa-mfi_icse2017/</link>
+      <link>/publication/cpa-mfi_icse2017/</link>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://thierry-tct.github.io/publication/cpa-mfi_icse2017/</guid>
+      <guid>/publication/cpa-mfi_icse2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems</title>
-      <link>https://thierry-tct.github.io/publication/lightsync_infocom2016/</link>
+      <link>/publication/lightsync_infocom2016/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://thierry-tct.github.io/publication/lightsync_infocom2016/</guid>
+      <guid>/publication/lightsync_infocom2016/</guid>
       <description></description>
     </item>
     

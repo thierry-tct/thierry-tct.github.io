@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Thierry Titcheu Chekam</title>
-    <link>https://thierry-tct.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Thierry Titcheu Chekam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
