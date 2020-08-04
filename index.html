@@ -8,7 +8,7 @@
   <meta name="theme" content="hugo-academic">
   <meta name="generator" content="Hugo 0.20.7" />
   <meta name="author" content="Thierry Titcheu Chekam">
-  <meta name="description" content="PhD Candidate">
+  <meta name="description" content="Postdoctoral Researcher/Rsearch Associate">
 
   
   
@@ -136,7 +136,7 @@
 
       <div class="portrait-title">
         <h2 itemprop="name">Thierry Titcheu Chekam</h2>
-        <h3 itemprop="jobTitle">PhD Candidate</h3>
+        <h3 itemprop="jobTitle">Postdoctoral Researcher/Rsearch Associate</h3>
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           <a href="http://wwwen.uni.lu/snt/people/thierry_titcheu_chekam" target="_blank" itemprop="url">
@@ -188,7 +188,7 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>Thierry Titcheu Chekam is a PhD candidate at the Interdisciplinary Center for Security, Reliability and Trust (SnT) of the University of Luxembourg. His research interests include software testing and analysis, programming language virtual machines. He is recipiant of the AFR-PhD grand from Luxembourg&rsquo;s national research fund (FNR) which graciously sponsors his Doctoral research.</p>
+<p>Thierry Titcheu Chekam is a Postdoctoral Researcher/Research Associate candidate at the Interdisciplinary Center for Security, Reliability and Trust (SnT) of the University of Luxembourg. His research interests include software testing and analysis, Cloud storage. He was recipient of the AFR-PhD grand from Luxembourg&rsquo;s national research fund (FNR) which graciously sponsored his Doctoral research. He was also recipient of the Chinese Scholarship Council (CSC) cooperation scholarship between Cameroon and China during his Masters and Bachelors degree studies.</p>
 
 
     <div class="row">
@@ -198,15 +198,13 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-	  <li>Cloud/Distributed Storage</li>
-		
           <li>Symbolic Execution</li>
           
           <li>Mutation Testing</li>
           
           <li>Software Analysis</li>
           
-          <li>Compiler &amp; Programming Language VM</li>
+          <li>Cloud Storage</li>
           
         </ul>
       </div>
@@ -216,6 +214,14 @@
       <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Computer Science - Software Testing, 2019</p>
+              <p class="institution">University of Luxembourg</p>
+            </div>
+          </li>
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
@@ -262,140 +268,6 @@
 
     
     
-    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="/publication/cpa-mfi_icse2017/" itemprop="url">An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        Many studies suggest using coverage concepts, such as branch coverage, as the starting point of testing, while others as the most prominent test quality indicator. Yet the relationship between coverage and fault-revelation remains unknown, yielding uncertainty and controversy. Most previous studies rely on the Clean Program Assumption, that a test suite will obtain similar coverage for both faulty and fixed (&#39;clean&#39;) program versions. This assumption may appear intuitive, especially for bugs that denote small semantic deviations. However, we present evidence that the Clean Program Assumption does not always hold, thereby raising a critical threat to the validity of previous results. We then conducted a study using a robust experimental methodology that avoids this threat to validity, from which our primary finding is that strong mutation testing has the highest fault revelation of four widely-used criteria. Our findings also revealed that fault revelation starts to increase significantly only once relatively high levels of coverage are attained.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        <a href="#">Thierry Titcheu Chekam</a>, <a href="https://sites.google.com/site/mikepapadakis/home" target="_blank">Mike Papadakis</a>, <a href="http://wwwen.uni.lu/snt/people/yves_le_traon" target="_blank">Yves Le Traon</a>, <a href="http://www0.cs.ucl.ac.uk/staff/M.Harman/" target="_blank">Mark Harman</a>
-        
-      </div>
-
-      <div class="pub-publication">
-        
-        <a href="http://icse2017.gatech.edu/" target="_blank">ICSE 2017</a>
-        
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/publication/cpa-mfi_icse2017/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/pdf/CPA-MFI_ICSE17.pdf">
-  PDF
-</a>
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://sites.google.com/site/mikepapadakis/faults-mutants#CPA">
-  Dataset
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://sites.google.com/site/mikepapadakis/faults-mutants#CPA">
-  Project
-</a>
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    
-    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="/publication/lightsync_infocom2016/" itemprop="url">On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        As one type of the most popular cloud storage services, OpenStack Swift and its follow-up systems replicate each data object across multiple storage nodes and leverage object sync protocols to achieve high availability and eventual consistency. The performance of object sync protocols heavily relies on two key parameters: r (number of replicas for each object) and n (number of objects hosted by each storage node). In existing tutorials and demos, the configurations are usually r = 3 and n &lt; 1000 by default, and the object sync process seems to perform well. To deep understand object sync protocols, we first make a lab-scale OpenStack Swift deployment and run experiments with various configurations. We discover that in data-intensive scenarios, e.g., when r &gt; 3 and n &gt;&gt; 1000, the object sync process is significantly delayed and produces massive network overhead. This phenomenon is referred to as the sync bottleneck problem. Then, to explore the root cause, we review the source code of OpenStack Swift and find that its object sync protocol utilizes a fairly simple and network-intensive approach to check the consistency among replicas of objects. In particular, each storage node is required to periodically multicast the hash values of all its hosted objects to all the other replica nodes. Thus in a sync round, the number of exchanged hash values per node is Theta(n*r). Further, to tackle the problem, we propose a lightweight object sync protocol called LightSync. It remarkably reduces the sync overhead by using two novel building blocks: 1) Hashing of Hashes, which aggregates all the h hash values of each data partition into a single but representative hash value with the Merkle tree; 2) Circular Hash Checking, which checks the consistency of different partition replicas by only sending the aggregated hash value to the clockwise neighbor. Its design provably reduces the per-node network overhead from Theta(n*r) to Theta(n/h). In addition, we have implemented LightSync as an open source patch and adopted it to OpenStack Swift, thus reducing sync delay by up to 28.8X and network overhead by up to 14.2X.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        <a href="#">Thierry Titcheu Chekam</a>, <a href="http://www.cs.yale.edu/homes/zhai-ennan/" target="_blank">Ennan Zhai</a>, <a href="http://www.greenorbs.org/people/lzh/" target="_blank">Zhenhua Li</a>, <a href="http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101223231342918741150/20101223231342918741150_.html" target="_blank">Yong Cui</a>, <a href="http://www.acsu.buffalo.edu/~kuiren/" target="_blank">Kui Ren</a>
-        
-      </div>
-
-      <div class="pub-publication">
-        
-        <a href="http://infocom2016.ieee-infocom.org/" target="_blank">INFOCOM 2016</a>
-        
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/publication/lightsync_infocom2016/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/pdf/main_INFOCOM2016.pdf">
-  PDF
-</a>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/LightSync">
-  Code
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/LightSync">
-  Project
-</a>
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-    
     
 
   </div>
@@ -418,6 +290,13 @@
     <h1>Recent Publications</h1>
     
     
+    <p class="view-all">
+      <a href="/publication/">
+        More Publications
+        <i class="fa fa-angle-double-right"></i>
+      </a>
+    </p>
+    
   </div>
   <div class="col-xs-12 col-md-8">
     
@@ -427,12 +306,246 @@
       
       <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption</span>
+  <span itemprop="name">Killing Stubborn Mutants with Symbolic Execution</span>
   <p>
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/publication/cpa-mfi_icse2017/">
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-journalscorrabs-2001-02941/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://arxiv.org/abs/2001.02941">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Selecting fault revealing mutants</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-journalsese-chekam-pbts-20/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1007/s10664-019-09778-7">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Assessment and Improvement of the Practical Use of Mutation for Automated Software Testing</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-phdbasesearch-chekam-19/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://orbilu.uni.lu/handle/10993/40442">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Mart: a mutant generation tool for LLVM</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-confsigsoft-chekam-pt-19/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3338906.3341180">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Are mutants really natural?: a study on how &#34;naturalness&#34; helps mutant selection</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-confesem-jimenez-ccpkth-18/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3239235.3240500">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Mutant Quality Indicators</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-conficst-papadakis-ct-18/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://doi.ieeecomputersociety.org/10.1109/ICSTW.2018.00025">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-journalstpds-ruan-tzllecx-18/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1109/TPDS.2018.2810179">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Predicting the fault revelation utility of mutants</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-conficse-chekam-pbt-18/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1145/3183440.3195031">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Selecting Fault Revealing Mutants</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-journalscorrabs-1803-07901/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://arxiv.org/abs/1803.07901">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">An empirical study on mutation, statement and branch coverage fault revelation that avoids the unreliable clean program assumption</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/publication/dblp-conficse-chekam-pth-17/">
   Details
 </a>
 
@@ -451,40 +564,6 @@
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://sites.google.com/site/mikepapadakis/faults-mutants#CPA">
-  Project
-</a>
-
-
-</p>
-</li>
-
-      
-      <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/publication/lightsync_infocom2016/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="/pdf/main_INFOCOM2016.pdf">
-  PDF
-</a>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/LightSync">
-  Code
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/LightSync">
   Project
 </a>
 
@@ -589,7 +668,7 @@
       
       <li>
         <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">E02-214, JFK Building; 29, avenue JF Kennedy L-1855 Luxembourg</span>
+        <span id="person-address" itemprop="address">E 007, Campus Kirchberg, Université du Luxembourg 6, rue Richard Coudenhove-Kalergi L-1359 Luxembourg</span>
       </li>
       
 

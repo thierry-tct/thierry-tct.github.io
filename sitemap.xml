@@ -5,6 +5,96 @@
     
     <url>
     
+      <loc>/publication/</loc>
+      <lastmod>2020-08-04T01:02:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-journalscorrabs-2001-02941/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-journalsese-chekam-pbts-20/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-phdbasesearch-chekam-19/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-confsigsoft-chekam-pt-19/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-confesem-jimenez-ccpkth-18/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-conficst-papadakis-ct-18/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-journalstpds-ruan-tzllecx-18/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-conficse-chekam-pbt-18/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-journalscorrabs-1803-07901/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/example-talk/</loc>
       <lastmod>2017-05-25T00:00:00+00:00</lastmod>
     </url>
@@ -14,17 +104,8 @@
     
     <url>
     
-      <loc>/publication/cpa-mfi_icse2017/</loc>
-      <lastmod>2017-05-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-05-07T01:02:21+02:00</lastmod>
+      <loc>/publication/dblp-conficse-chekam-pth-17/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -113,8 +194,17 @@
     
     <url>
     
-      <loc>/publication/lightsync_infocom2016/</loc>
-      <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+      <loc>/publication/dblp-journalscorr-chekam-pt-16/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/dblp-confinfocom-chekam-zlcr-16/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -132,7 +222,27 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/7/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -201,7 +311,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -221,7 +331,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+      <lastmod>2020-08-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

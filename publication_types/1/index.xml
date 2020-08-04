@@ -7,24 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Thierry Titcheu Chekam</copyright>
-    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption</title>
-      <link>/publication/cpa-mfi_icse2017/</link>
-      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      <title>Mart: a mutant generation tool for LLVM</title>
+      <link>/publication/dblp-confsigsoft-chekam-pt-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cpa-mfi_icse2017/</guid>
+      <guid>/publication/dblp-confsigsoft-chekam-pt-19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the Synchronization Bottleneck of OpenStack Swift-like Cloud Storage Systems</title>
-      <link>/publication/lightsync_infocom2016/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Are mutants really natural?: a study on how &#34;naturalness&#34; helps mutant selection</title>
+      <link>/publication/dblp-confesem-jimenez-ccpkth-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lightsync_infocom2016/</guid>
+      <guid>/publication/dblp-confesem-jimenez-ccpkth-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutant Quality Indicators</title>
+      <link>/publication/dblp-conficst-papadakis-ct-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-conficst-papadakis-ct-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the fault revelation utility of mutants</title>
+      <link>/publication/dblp-conficse-chekam-pbt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-conficse-chekam-pbt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical study on mutation, statement and branch coverage fault revelation that avoids the unreliable clean program assumption</title>
+      <link>/publication/dblp-conficse-chekam-pth-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-conficse-chekam-pth-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the synchronization bottleneck of OpenStack Swift-like cloud storage systems</title>
+      <link>/publication/dblp-confinfocom-chekam-zlcr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-confinfocom-chekam-zlcr-16/</guid>
       <description></description>
     </item>
     
