@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Thierry Titcheu Chekam</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Thierry Titcheu Chekam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Thierry Titcheu Chekam</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Killing Stubborn Mutants with Symbolic Execution</title>
+      <link>/publication/dblp-journalscorrabs-2001-02941/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-journalscorrabs-2001-02941/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting fault revealing mutants</title>
+      <link>/publication/dblp-journalsese-chekam-pbts-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-journalsese-chekam-pbts-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems</title>
+      <link>/publication/dblp-journalstpds-ruan-tzllecx-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-journalstpds-ruan-tzllecx-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting Fault Revealing Mutants</title>
+      <link>/publication/dblp-journalscorrabs-1803-07901/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-journalscorrabs-1803-07901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing and Comparing Mutation-based Fault Localization Techniques</title>
+      <link>/publication/dblp-journalscorr-chekam-pt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dblp-journalscorr-chekam-pt-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
